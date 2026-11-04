@@ -1,0 +1,8 @@
+classpath:C:\Users\hp\.m2\repository\javax\servlet\javax.servlet-api\4.0.1\javax.servlet-api-4.0.1.jar	95505:1793264444203
+classpath:C:\Users\hp\.m2\repository\javax\servlet\jsp\javax.servlet.jsp-api\2.3.3\javax.servlet.jsp-api-2.3.3.jar	54200:1793264444488
+classpath:C:\Users\hp\.m2\repository\jstl\jstl\1.2\jstl-1.2.jar	414240:1793264444754
+classpath:C:\Users\hp\.m2\repository\org\apache\tomcat\embed\tomcat-embed-core\9.0.89\tomcat-embed-core-9.0.89.jar	3572331:1793264446480
+classpath:C:\Users\hp\.m2\repository\org\apache\tomcat\tomcat-annotations-api\9.0.89\tomcat-annotations-api-9.0.89.jar	13334:1793264444958
+classpath:C:\Users\hp\.m2\repository\org\apache\tomcat\embed\tomcat-embed-jasper\9.0.89\tomcat-embed-jasper-9.0.89.jar	667860:1793264444542
+classpath:C:\Users\hp\.m2\repository\org\eclipse\jdt\ecj\3.26.0\ecj-3.26.0.jar	3133846:1793264445650
+classpath:C:\Users\hp\.m2\repository\org\apache\tomcat\embed\tomcat-embed-el\9.0.89\tomcat-embed-el-9.0.89.jar	258882:1793264444954
