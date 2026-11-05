@@ -161,9 +161,8 @@
                     Try Form #2: Feedback Form &rarr;</a>
             </div>
             <div class="header">
-                <h2>User Registration</h2>
-                <h2>Maruthi</h2>
-                <h2>kia</h2>
+                <h2>tesla</h2>
+
                 <p>Fill out the form below. Submitted data will be printed to the servlet console.</p>
             </div>
 
